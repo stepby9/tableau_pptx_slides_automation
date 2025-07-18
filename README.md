@@ -1,4 +1,4 @@
-# tableau_pptx_slides_automation
+# Slides preparetion from Tableau reports
 
 Description: this script helps save time on presentation preparation. Instead of manually filtering multiple tableau views, taking screenshots and pasting them in the deck with further editing, simply run this script to perform all those actions automatically.
 
